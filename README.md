@@ -1,4 +1,3 @@
-Hookscord hk = new Hookscord("https://canary.discordapp.com/api/webhooks/XXXX");
-Message msg = new Message("ahhh");
-msg.setText("[Batman](google.com) is the greatest of all time");
-hk.sendMessage(msg);
+Hey, so a made a few changes, and if you're up to it, take a look at [Quill & Quiver] (https://quillandquiver.wixsite.com/quillandquiver/about) with a winter-y theme. It's not quite winter yet where I live, but it is getting pretty cold, and I just couldn't resist. It should also be a lot easier to navigate on mobile.
+
+Let me know what you think! I'm open to any ideas any of you have, either making some QOL changes to the site, or challenges, basically anything you've got.
